@@ -35,4 +35,4 @@ int main()
     cout << "kota : " << mhs[i].alamat.kota<<endl;
     cout << "umur : " << mhs[i].umur<<endl;
     }
-}
+};
