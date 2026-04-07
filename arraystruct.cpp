@@ -25,5 +25,7 @@ int main() {
 
     cout<<"Data ke - 1 :"<< datamu[0]<<endl;
     cout<<"Data ke - 1 :"<< datamu[1]<<endl;
+    cout<<"Data ke - 1 :"<< datamu[2]<<endl;
+    cout<<"Data ke - 1 :"<< datamu[3]<<endl;
     
 }
