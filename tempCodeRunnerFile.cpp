@@ -1,0 +1,1 @@
+cout<<"Data ke - 1 :"<< datamu[1]<<endl;
