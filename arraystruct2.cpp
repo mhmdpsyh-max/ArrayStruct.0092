@@ -9,4 +9,5 @@ struct orang {
 
 int main () {
     orang mhs;
+    cout<< "Nama Mahasiswa:";
 }
